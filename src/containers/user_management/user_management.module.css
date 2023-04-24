@@ -1,0 +1,19 @@
+.userTable {
+  margin-left: 50px;
+}
+.userTable table {
+  border: 2px solid forestgreen;
+  width: 800px;
+  height: 200px;
+  border-collapse: collapse;
+}
+
+.userTable th {
+  border: 1px solid black;
+  background-color: rgb(228, 223, 223);
+}
+
+.userTable td {
+  text-align: center;
+  border: 1px solid black;
+}
